@@ -1,3 +1,2 @@
 I am master
-I am login
-I am logout
+I am master
