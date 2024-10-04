@@ -1,6 +1,5 @@
 I am master
-<<<<<<< HEAD
-i am master
-=======
+I am login
 I am master
->>>>>>> login
+I am logout
+forgout password
