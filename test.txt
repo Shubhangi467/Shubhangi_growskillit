@@ -1,2 +1,6 @@
 I am master
+<<<<<<< HEAD
 i am master
+=======
+I am master
+>>>>>>> login
